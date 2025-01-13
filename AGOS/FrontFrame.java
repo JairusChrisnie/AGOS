@@ -76,7 +76,7 @@ public class FrontFrame extends JFrame implements ActionListener{//extends to JF
         buttonPanel.add(passengerButton);
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //this means that when we close the frame, it will really close the program
-        this.setSize(500,500); //this is the size of the frame
+        this.setSize(500,550); //this is the size of the frame
         this.setTitle("AGOS"); //title of the frame
         this.setLayout(null); //layout is null so we can customize the boundaries
 
